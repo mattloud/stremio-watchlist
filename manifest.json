@@ -1,0 +1,16 @@
+{
+  "id": "com.mattloud.watchlist",
+  "version": "1.0.0",
+  "name": "Matt's Watchlist",
+  "description": "Weekly movie recommendations based on my Letterboxd taste. Refreshed every week.",
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "watchlist-picks",
+      "name": "Matt's Picks"
+    }
+  ],
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "idPrefixes": ["tt"]
+}
