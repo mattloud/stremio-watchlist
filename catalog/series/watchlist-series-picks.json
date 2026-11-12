@@ -1,29 +1,177 @@
 {
   "metas": [
     {
-      "id": "tt27995113",
+      "id": "tt32375763",
       "type": "series",
-      "name": "Black Doves",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt27995113.webp",
-      "releaseInfo": "2024\u2013",
-      "imdbRating": "7.2",
-      "description": "After her lover is murdered by members of London's underworld, a spy - who is publicly the wife of the British Defence Secretary - is protected by an old friend from their agency.",
+      "name": "12 12 12",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt32375763.webp",
+      "releaseInfo": "2026\u2013",
+      "imdbRating": null,
+      "description": "A heist takes 12 months to plan, 12 hours to execute\u2014and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
       "genres": [
-        "Action",
+        "Action & Adventure",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt31842126",
+      "type": "series",
+      "name": "The Good Daughter",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt31842126.webp",
+      "releaseInfo": "2026\u2013",
+      "imdbRating": null,
+      "description": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she\u2019",
+      "genres": [
         "Drama",
         "Mystery"
       ]
     },
     {
-      "id": "tt35926686",
+      "id": "tt7631058",
       "type": "series",
-      "name": "It Gets Worse",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt35926686.webp",
-      "releaseInfo": "2026\u2013",
-      "imdbRating": "6.1",
-      "description": "Three best friends from college face eviction in London. As they scatter across the city, they navigate friendship, dating disasters, and adulting - all while the world crumbles around them.",
+      "name": "The Lord of the Rings: The Rings of Power",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt7631058.webp",
+      "releaseInfo": "2022\u2013",
+      "imdbRating": "6.8",
+      "description": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil ...",
       "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt47021035",
+      "type": "series",
+      "name": "Cunk on Cinema",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt47021035.webp",
+      "releaseInfo": "2026\u2013",
+      "imdbRating": null,
+      "description": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with",
+      "genres": [
+        "Comedy",
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt27535062",
+      "type": "series",
+      "name": "City of God: The Fight Rages On",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt27535062.webp",
+      "releaseInfo": "2024\u2013",
+      "imdbRating": "7.3",
+      "description": "Twenty years after City of God, Buscap\u00e9 recounts how conflicts between police, traffickers, and militias impacted the community.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt14466018",
+      "type": "series",
+      "name": "Blue Lights",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt14466018.webp",
+      "releaseInfo": "2023\u2013",
+      "imdbRating": "8.2",
+      "description": "Follows rookie police officers working in Belfast, a city in which being a frontline response cop comes with unique pressures and dangers.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt11280740.webp",
+      "releaseInfo": "2022\u2013",
+      "imdbRating": "8.6",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt11041332",
+      "type": "series",
+      "name": "Yellowjackets",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt11041332.webp",
+      "releaseInfo": "2021\u2013",
+      "imdbRating": "7.7",
+      "description": "A wildly talented girls' high school soccer team become the unlucky survivors of a plane crash deep in the Canadian wilderness.",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt2699128",
+      "type": "series",
+      "name": "The Leftovers",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt2699128.webp",
+      "releaseInfo": "2014\u20132017",
+      "imdbRating": "8.3",
+      "description": "Three years after the disappearance of 2% of the global human population, a group of people in a small New York community try to continue their lives while coping with the tragedy of the unexplained nature of the event.",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt11343600",
+      "type": "series",
+      "name": "Brand New Cherry Flavor",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt11343600.webp",
+      "releaseInfo": "2021",
+      "imdbRating": "7.1",
+      "description": "Lisa Nova, an aspiring film director in the sun-drenched but seamy world of 1990 Los Angeles, embarks on a mind-altering journey of supernatural revenge that gets nightmarishly out of control.",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt11204260",
+      "type": "series",
+      "name": "I May Destroy You",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt11204260.webp",
+      "releaseInfo": "2020",
+      "imdbRating": "8.0",
+      "description": "The question of sexual consent in contemporary life and how, in the new landscape of dating and relationships, we make the distinction between liberation and exploitation.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt10802170",
+      "type": "series",
+      "name": "The Rehearsal",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt10802170.webp",
+      "releaseInfo": "2022\u2013",
+      "imdbRating": "8.5",
+      "description": "Nathan Fielder gives people a chance to rehearse for their own lives in a world where nothing ever works out as expected.",
+      "genres": [
+        "Documentary",
         "Comedy"
+      ]
+    },
+    {
+      "id": "tt9140342",
+      "type": "series",
+      "name": "It's a Sin",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt9140342.webp",
+      "releaseInfo": "2021",
+      "imdbRating": "8.6",
+      "description": "It is 1981 and Ritchie, Roscoe and Colin begin a new life in London. Strangers at first, these lads and Jill find themselves thrown together. But a new virus is on the rise, and soon their lives will be tested in ways they never i...",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -38,142 +186,6 @@
         "Drama",
         "Horror",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tt31121364",
-      "type": "series",
-      "name": "Death by Lightning",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt31121364.webp",
-      "releaseInfo": "2025",
-      "imdbRating": "7.6",
-      "description": "Dramatizes the stranger-than-fiction true story of 20th U.S. President James Garfield, and admirer Charles Guiteau, who assassinated him.",
-      "genres": [
-        "Biography",
-        "Drama",
-        "History"
-      ]
-    },
-    {
-      "id": "tt18224594",
-      "type": "series",
-      "name": "Blade Runner 2099",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt18224594.webp",
-      "releaseInfo": "2026\u2013",
-      "imdbRating": null,
-      "description": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that c",
-      "genres": [
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "id": "tt39980704",
-      "type": "series",
-      "name": "Yaga",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt39980704.webp",
-      "releaseInfo": "2026\u2013",
-      "imdbRating": "",
-      "description": "Follows a private investigator probing the disappearance of a young fishery heir, finding himself at odds with a local detective, a charismatic professor, and a labyrinth of enigmatic suspects and ancient magic.",
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt2243973",
-      "type": "series",
-      "name": "Hannibal",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt2243973.webp",
-      "releaseInfo": "2013\u20132015",
-      "imdbRating": "8.5",
-      "description": "Explores the early relationship between renowned psychiatrist Hannibal Lecter and a young FBI criminal profiler who is haunted by his ability to empathize with serial killers.",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt0061287",
-      "type": "series",
-      "name": "The Prisoner",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0061287.webp",
-      "releaseInfo": "1967\u20131968",
-      "imdbRating": "8.4",
-      "description": "An ex-secret agent is taken to a bizarre prison disguised as an idyllic village, from which he attempts to escape while trying not to divulge the information his captors seek to obtain.",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi"
-      ]
-    },
-    {
-      "id": "tt2297757",
-      "type": "series",
-      "name": "Nathan for You",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt2297757.webp",
-      "releaseInfo": "2013\u20132017",
-      "imdbRating": "8.9",
-      "description": "Nathan Fielder uses his business degree and life experiences to, in unorthodox ways, help real small businesses turn a profit.",
-      "genres": [
-        "Documentary",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0397150",
-      "type": "series",
-      "name": "Garth Marenghi's Darkplace",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0397150.webp",
-      "releaseInfo": "2004",
-      "imdbRating": "8.5",
-      "description": "This parody series is an unearthed 80s horror/drama, complete with poor production values, awful dialogue and hilarious violence. The series is set in a Hospital in Romford, which is situated over the gates of Hell.",
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt14932528",
-      "type": "series",
-      "name": "Don't Hug Me I'm Scared",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt14932528.webp",
-      "releaseInfo": "2022",
-      "imdbRating": "8.7",
-      "description": "Follow Red Guy, Yellow Guy, and Green Duck as they learn about family, electricity, and death. Beware the strange and dangerous twists that come their way as their seemingly-safe house reveals that they live in an actual nightmare.",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2431438",
-      "type": "series",
-      "name": "Sense8",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt2431438.webp",
-      "releaseInfo": "2015\u20132018",
-      "imdbRating": "8.2",
-      "description": "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world's order.",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi"
-      ]
-    },
-    {
-      "id": "tt12759100",
-      "type": "series",
-      "name": "Somebody Somewhere",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt12759100.webp",
-      "releaseInfo": "2022\u20132024",
-      "imdbRating": "8.3",
-      "description": "Sam is a true Kansan on the surface, but beneath it all she struggles to fit the hometown mold. Grappling with loss and acceptance, she discovers herself and a community of outsiders who don't fit in but don't give up.",
-      "genres": [
-        "Comedy",
-        "Drama"
       ]
     },
     {
@@ -339,19 +351,6 @@
         "Game-Show",
         "Horror",
         "Reality-TV"
-      ]
-    },
-    {
-      "id": "tt10383046",
-      "type": "series",
-      "name": "Veneno",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt10383046.webp",
-      "releaseInfo": "2020",
-      "imdbRating": "8.6",
-      "description": "A biographical story of TV personality and transgender icon La Veneno and those who surrounded her.",
-      "genres": [
-        "Biography",
-        "Drama"
       ]
     }
   ]
