@@ -1,440 +1,459 @@
 {
   "metas": [
     {
-      "id": "tt37803364",
+      "id": "tt35866986",
       "type": "movie",
-      "name": "Possible Love",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt37803364.webp",
+      "name": "How to Rob a Bank",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt35866986.webp",
       "releaseInfo": "2026",
-      "imdbRating": "8.1",
-      "description": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
+      "imdbRating": null,
+      "description": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on",
       "genres": [
-        "Drama"
-      ],
-      "director": [
-        "Lee Chang-dong"
-      ]
-    },
-    {
-      "id": "tt36482679",
-      "type": "movie",
-      "name": "The Only Living Pickpocket in New York",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt36482679.webp",
-      "releaseInfo": "2026",
-      "imdbRating": "7.3",
-      "description": "Harry Lehman is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily cancelled credit cards, and Harry struggles to make ends meet as he cares for his disabled wife, Rosie. When he unwittingly ",
-      "genres": [
+        "Action",
         "Crime",
-        "Drama",
         "Thriller"
       ],
       "director": [
-        "Noah Segan"
+        "David Leitch"
       ]
     },
     {
-      "id": "tt37304295",
+      "id": "tt38773219",
       "type": "movie",
-      "name": "Fatherland",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt37304295.webp",
+      "name": "Ebenezer: A Christmas Carol",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt38773219.webp",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
-      "description": "In\u00a01949,\u00a0German\u00a0writer Thomas Mann\u00a0and\u00a0his daughter Erika embark on a road trip across a Germany in ruins,\u00a0from\u00a0US-dominated Frankfurt to Soviet-controlled Weimar.",
+      "imdbRating": "",
+      "description": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
+      "genres": [
+        "Fantasy"
+      ],
+      "director": [
+        "Ti West"
+      ]
+    },
+    {
+      "id": "tt34374553",
+      "type": "movie",
+      "name": "Victorian Psycho",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt34374553.webp",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1",
+      "description": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be\u2014but the truth may be far more dangerous than they imagine.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "director": [
+        "Zachary Wigon"
+      ]
+    },
+    {
+      "id": "tt2056785",
+      "type": "movie",
+      "name": "Wildwood",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt2056785.webp",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "description": "The adventures of Prue McKeel as she sets off to the forests outside Portland to find her kidnapped brother.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "director": [
+        "Travis Knight"
+      ]
+    },
+    {
+      "id": "tt15799564",
+      "type": "movie",
+      "name": "Wild Horse Nine",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt15799564.webp",
+      "releaseInfo": "2026",
+      "imdbRating": "",
+      "description": "CIA agents Chris and Lee face a trust-testing mission from Santiago to Easter Island during 1973 in Chile.",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "director": [
+        "Martin McDonagh"
+      ]
+    },
+    {
+      "id": "tt15095848",
+      "type": "movie",
+      "name": "Being Heumann",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt15095848.webp",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "description": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken\u2014not us.",
       "genres": [
         "Drama",
         "History"
       ],
       "director": [
-        "Pawe\u0142 Pawlikowski"
+        "Sian Heder"
       ]
     },
     {
-      "id": "tt37020296",
+      "id": "tt11995650",
       "type": "movie",
-      "name": "Gentle Monster",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt37020296.webp",
+      "name": "I Play Rocky",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt11995650.webp",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
-      "description": "After relocating with her family to the countryside, a renowned pianist uncovers a life-shattering truth that forces her to confront the complexities of love, trust, and deception.",
+      "imdbRating": "",
+      "description": "A failing actor writes the ultimate underdog story and must fight for his chance to play the role of a lifetime - Rocky Balboa.",
       "genres": [
+        "Biography",
         "Drama"
       ],
       "director": [
-        "Marie Kreutzer"
+        "Peter Farrelly"
       ]
     },
     {
-      "id": "tt37808582",
+      "id": "tt34384661",
       "type": "movie",
-      "name": "Trauma or, Monsters All",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt37808582.webp",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "description": "An aspiring author gets more than she bargained for when she writes an article for the local paper about her small town\u2019s dark history, prompting unwanted speculation on what monsters may lie within.",
-      "genres": [
-        "Horror"
-      ],
-      "director": [
-        "Larry Fessenden"
-      ]
-    },
-    {
-      "id": "tt35051345",
-      "type": "movie",
-      "name": "Littermates",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt35051345.webp",
-      "releaseInfo": "2026",
-      "imdbRating": "7.8",
-      "description": "Amidst the chaos of a mysterious war, two victims of an attack take refuge at a cottage in the English countryside, where an enigmatic caretaker insists they cannot leave.",
-      "genres": [
-        "Horror"
-      ],
-      "director": [
-        "Scott Tinkham",
-        "Michael Woloson"
-      ]
-    },
-    {
-      "id": "tt37694048",
-      "type": "movie",
-      "name": "New Group",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt37694048.webp",
-      "releaseInfo": "2026",
-      "imdbRating": "5.8",
-      "description": "Ai is a high school girl who feels suffocated by social pressure, but finds it hard to fight going with the flow. One day, the people in her school inexplicably start to form a human pyramid. The principal and other teachers start to act weird and encourage taking part in it, and the various gymnast",
-      "genres": [
-        "Science Fiction",
-        "Thriller",
-        "Horror"
-      ],
-      "director": [
-        "Y\u00fbta Shimotsu"
-      ]
-    },
-    {
-      "id": "tt14129116",
-      "type": "movie",
-      "name": "A Talent for Murder",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt14129116.webp",
-      "releaseInfo": "2026",
-      "imdbRating": "6.7",
-      "description": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "director": [
-        "Anton Corbijn"
-      ]
-    },
-    {
-      "id": "tt35538033",
-      "type": "movie",
-      "name": "Resident Evil",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt35538033.webp",
+      "name": "Godzilla Minus Zero",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt34384661.webp",
       "releaseInfo": "2026",
       "imdbRating": "",
-      "description": "Follows a hapless courier tasked with delivering a package to a remote hospital. He soon finds himself caught in the middle of an outbreak and must fight through hordes of mutated creatures to survive.",
+      "description": "Direct continuation of Takashi Yamazaki's Godzilla Minus One.",
       "genres": [
         "Action",
-        "Horror",
-        "Sci-Fi"
+        "Adventure",
+        "Drama"
       ],
       "director": [
-        "Zach Cregger"
+        "Takashi Yamazaki"
       ]
     },
     {
-      "id": "tt43656794",
+      "id": "tt41593493",
       "type": "movie",
-      "name": "Making Marie Antoinette",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt43656794.webp",
+      "name": "Avedon",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt41593493.webp",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
-      "description": "Eleanor Coppola's behind-the-scenes documentation of her daughter Sofia Coppola directing the 2006 film Marie Antoinette, capturing the craftsmanship and challenges of being a young female director.",
+      "imdbRating": "7.5",
+      "description": "Richard Avedon's photographs didn't just reflect culture, they shaped it, and continue to do so. The feature documentary AVEDON traces the life and legacy of an artist who used fashion, portraiture, and commercial photography to explore identity, power, fear and beauty. With unprecedented access to ",
       "genres": [
         "Documentary"
       ],
       "director": [
-        "Eleanor Coppola"
+        "Ron Howard"
       ]
     },
     {
-      "id": "tt38058097",
+      "id": "tt35410859",
       "type": "movie",
-      "name": "Club Kid",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt38058097.webp",
+      "name": "Fjord",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt35410859.webp",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
-      "description": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+      "imdbRating": "7.6",
+      "description": "An immigrant Romanian family living in Norway is subject to an investigation and faces the scrutiny of the local judicial system.",
       "genres": [
-        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "director": [
+        "Cristian Mungiu"
+      ]
+    },
+    {
+      "id": "tt27759858",
+      "type": "movie",
+      "name": "Prima Facie",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt27759858.webp",
+      "releaseInfo": "2026",
+      "imdbRating": "5.9",
+      "description": "Tessa is a brilliant British defence barrister dominating London\u2019s ruthless courtrooms. Fierce, witty, and self-made, she defends men accused of sexual assault \u2014 until she is assaulted herself by a colleague from a powerful legal dynasty.  Suddenly, the system she trusted turns against her. As she f",
+      "genres": [
         "Drama"
       ],
       "director": [
-        "Jordan Firstman"
+        "Susanna White"
       ]
     },
     {
-      "id": "tt34206385",
+      "id": "tt0093342",
       "type": "movie",
-      "name": "Primetime",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt34206385.webp",
+      "name": "Where Is the Friend's House?",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0093342.webp",
+      "releaseInfo": "1987",
+      "imdbRating": "8.1",
+      "description": "Eight-year-old Ahmed has mistakenly taken his friend Mohammad's notebook. He wants to return it, or else his friend will be expelled from school. The boy determinedly sets out to find Mohammad's home in the neighbouring village.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family"
+      ],
+      "director": [
+        "Abbas Kiarostami"
+      ]
+    },
+    {
+      "id": "tt37171180",
+      "type": "movie",
+      "name": "Artificial",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt37171180.webp",
       "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "description": "In November 2023, amidst the height of a global AI boom, OpenAI co-founder Ilya Sutskever teamed with the company board to make one of the defining decisions that has drastically reshaped the company as we know it, the firing of current CEO Sam Altman. This controversial decision would lead to immen",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "History"
+      ],
+      "director": [
+        "Luca Guadagnino"
+      ]
+    },
+    {
+      "id": "tt3993894",
+      "type": "movie",
+      "name": "Queen of Earth",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt3993894.webp",
+      "releaseInfo": "2015",
+      "imdbRating": "6.2",
+      "description": "Two women who grew up together discover they have drifted apart when they retreat to a lake house together.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "director": [
+        "Alex Ross Perry"
+      ]
+    },
+    {
+      "id": "tt0068278",
+      "type": "movie",
+      "name": "The Bitter Tears of Petra von Kant",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0068278.webp",
+      "releaseInfo": "1972",
+      "imdbRating": "7.5",
+      "description": "A troubled fashion designer strikes up a romance with a much younger woman.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "director": [
+        "Rainer Werner Fassbinder"
+      ]
+    },
+    {
+      "id": "tt0118845",
+      "type": "movie",
+      "name": "Happy Together",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0118845.webp",
+      "releaseInfo": "1997",
+      "imdbRating": "7.6",
+      "description": "A couple take a trip to Argentina but both men find their lives drifting apart in opposite directions.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "director": [
+        "Wong Kar-Wai"
+      ]
+    },
+    {
+      "id": "tt8399288",
+      "type": "movie",
+      "name": "Memoria",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt8399288.webp",
+      "releaseInfo": "2021",
+      "imdbRating": "6.4",
+      "description": "A woman from Scotland, while traveling in Colombia, begins to notice strange sounds. Soon she begins to think about their appearance.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "director": [
+        "Apichatpong Weerasethakul"
+      ]
+    },
+    {
+      "id": "tt0114323",
+      "type": "movie",
+      "name": "Safe",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0114323.webp",
+      "releaseInfo": "1995",
       "imdbRating": "7.1",
-      "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+      "description": "An affluent and unexceptional homemaker in the suburbs develops multiple chemical sensitivity.",
       "genres": [
-        "Action",
-        "Biography",
+        "Drama",
+        "Mystery"
+      ],
+      "director": [
+        "Todd Haynes"
+      ]
+    },
+    {
+      "id": "tt0069089",
+      "type": "movie",
+      "name": "Pink Flamingos",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0069089.webp",
+      "releaseInfo": "1976",
+      "imdbRating": "6.0",
+      "description": "Notorious Baltimore criminal and underground figure Divine goes up against a sleazy married couple who make a passionate attempt to humiliate her and seize her tabloid-given title as \"The Filthiest Person Alive\".",
+      "genres": [
+        "Comedy",
         "Crime"
-      ],
-      "director": [
-        "Lance Oppenheim"
-      ]
-    },
-    {
-      "id": "tt31450459",
-      "type": "movie",
-      "name": "Digger",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt31450459.webp",
-      "releaseInfo": "2026",
-      "imdbRating": "",
-      "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "director": [
-        "Alejandro G. I\u00f1\u00e1rritu"
-      ]
-    },
-    {
-      "id": "tt7476236",
-      "type": "movie",
-      "name": "Minding the Gap",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt7476236.webp",
-      "releaseInfo": "2018",
-      "imdbRating": "8.0",
-      "description": "Filmmaker Bing Liu searches for correlations between his skateboarder friends' turbulent upbringings and the complexities of modern masculinity.",
-      "genres": [
-        "Documentary",
-        "Sport"
-      ],
-      "director": [
-        "Bing Liu"
-      ]
-    },
-    {
-      "id": "tt0099329",
-      "type": "movie",
-      "name": "Cry-Baby",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0099329.webp",
-      "releaseInfo": "1990",
-      "imdbRating": "6.5",
-      "description": "In 1950s Baltimore, a bad boy with a heart of gold wins the love of a good girl, whose boyfriend sets out for revenge.",
-      "genres": [
-        "Comedy",
-        "Musical"
       ],
       "director": [
         "John Waters"
       ]
     },
     {
-      "id": "tt14849194",
+      "id": "tt14039582",
       "type": "movie",
-      "name": "The Holdovers",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt14849194.webp",
-      "releaseInfo": "2023",
-      "imdbRating": "7.9",
-      "description": "In 1970, a curmudgeonly history teacher at a New England boarding school remains on campus during Christmas break to supervise held over students, and ends up forming an unlikely bond with a brainy but damaged troublemaker.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "director": [
-        "Alexander Payne"
-      ]
-    },
-    {
-      "id": "tt0206634",
-      "type": "movie",
-      "name": "Children of Men",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0206634.webp",
-      "releaseInfo": "2007",
-      "imdbRating": "7.9",
-      "description": "In 2027, in a chaotic world in which women have somehow become infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "director": [
-        "Alfonso Cuar\u00f3n"
-      ]
-    },
-    {
-      "id": "tt28366692",
-      "type": "movie",
-      "name": "Janet Planet",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt28366692.webp",
-      "releaseInfo": "2024",
-      "imdbRating": "6.1",
-      "description": "In rural Western Massachusetts, 11-year-old Lacy spends the summer of 1991 at home, enthralled by her own imagination and the attention of her mother, Janet. As the months pass, three visitors enter their orbit, all captivated by ...",
-      "genres": [
-        "Drama"
-      ],
-      "director": [
-        "Annie Baker"
-      ]
-    },
-    {
-      "id": "tt13453006",
-      "type": "movie",
-      "name": "Red Rocket",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt13453006.webp",
+      "name": "Drive My Car",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt14039582.webp",
       "releaseInfo": "2021",
-      "imdbRating": "7.1",
-      "description": "Washed-up porn star Mikey Saber returns to his small Texas hometown and decides if he wants to be with his ex-wife or the donut shop girl hes in love with.",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "director": [
-        "Sean Baker"
-      ]
-    },
-    {
-      "id": "tt0247613",
-      "type": "movie",
-      "name": "Peppermint Candy",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0247613.webp",
-      "releaseInfo": "2000",
-      "imdbRating": "7.6",
-      "description": "Following a man's suicide, time traverses back to reveal six chapters of his life on why he committed suicide.",
+      "imdbRating": "7.5",
+      "description": "A renowned stage actor and director learns to cope with a big personal loss when he receives an offer to direct a production of Uncle Vanya in Hiroshima.",
       "genres": [
         "Drama"
       ],
       "director": [
-        "Lee Chang-dong"
+        "Ryusuke Hamaguchi"
       ]
     },
     {
-      "id": "tt0123948",
+      "id": "tt10944760",
       "type": "movie",
-      "name": "Cure",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0123948.webp",
-      "releaseInfo": "2001",
-      "imdbRating": "7.5",
-      "description": "A frustrated detective deals with the case of several gruesome murders committed by people who have no recollection of what they've done.",
-      "genres": [
-        "Crime",
-        "Horror",
-        "Mystery"
-      ],
-      "director": [
-        "Kiyoshi Kurosawa"
-      ]
-    },
-    {
-      "id": "tt4954522",
-      "type": "movie",
-      "name": "Raw",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt4954522.webp",
-      "releaseInfo": "2017",
-      "imdbRating": "6.9",
-      "description": "A young woman, studying to be a vet, develops a craving for human flesh.",
+      "name": "Titane",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt10944760.webp",
+      "releaseInfo": "2021",
+      "imdbRating": "6.4",
+      "description": "Following a series of unexplained crimes, a father is reunited with the son who has been missing for ten years.",
       "genres": [
         "Drama",
-        "Horror"
+        "Horror",
+        "Sci-Fi"
       ],
       "director": [
         "Julia Ducournau"
       ]
     },
     {
-      "id": "tt5635086",
+      "id": "tt0082933",
       "type": "movie",
-      "name": "God's Own Country",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt5635086.webp",
-      "releaseInfo": "2017",
-      "imdbRating": "7.6",
-      "description": "Spring. Yorkshire. Young farmer Johnny Saxby numbs his daily frustrations with binge drinking and casual sex, until the arrival of a Romanian migrant worker for lambing season ignites an intense relationship that sets Johnny on a ...",
+      "name": "Possession",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0082933.webp",
+      "releaseInfo": "1983",
+      "imdbRating": "7.2",
+      "description": "A woman starts exhibiting increasingly disturbing behavior after asking her husband for a divorce. Suspicions of infidelity soon give way to something much more sinister.",
       "genres": [
         "Drama",
-        "Romance"
+        "Horror"
       ],
       "director": [
-        "Francis Lee"
+        "Andrzej Zulawski"
       ]
     },
     {
-      "id": "tt0179116",
+      "id": "tt7557108",
       "type": "movie",
-      "name": "But I'm a Cheerleader",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0179116.webp",
-      "releaseInfo": "2000",
-      "imdbRating": "6.9",
-      "description": "A na\u00efve teenager is sent to \"sexual redirection\" school when her straitlaced parents and friends suspect her of being gay.",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "director": [
-        "Jamie Babbit"
-      ]
-    },
-    {
-      "id": "tt0070917",
-      "type": "movie",
-      "name": "The Wicker Man",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0070917.webp",
-      "releaseInfo": "1974",
-      "imdbRating": "7.5",
-      "description": "A puritan police sergeant arrives in a Scottish island village in search of a missing girl, who the pagan locals claim never existed.",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "director": [
-        "Robin Hardy"
-      ]
-    },
-    {
-      "id": "tt0063759",
-      "type": "movie",
-      "name": "Hour of the Wolf",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0063759.webp",
-      "releaseInfo": "1968",
-      "imdbRating": "7.5",
-      "description": "While vacationing on a remote German island with his younger pregnant wife, an artist has an emotional breakdown while confronting his repressed desires.",
+      "name": "Saint Maud",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt7557108.webp",
+      "releaseInfo": "2021",
+      "imdbRating": "6.6",
+      "description": "A pious nurse becomes dangerously obsessed with saving the soul of her dying patient.",
       "genres": [
         "Drama",
         "Horror",
         "Mystery"
       ],
       "director": [
-        "Ingmar Bergman"
+        "Rose Glass"
       ]
     },
     {
-      "id": "tt0185125",
+      "id": "tt1379182",
       "type": "movie",
-      "name": "All About My Mother",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0185125.webp",
-      "releaseInfo": "2000",
-      "imdbRating": "7.8",
-      "description": "A comedy-drama about a bereaved mother, an overwrought actress, her jealous lover, and a pregnant nun.",
+      "name": "Dogtooth",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt1379182.webp",
+      "releaseInfo": "2009",
+      "imdbRating": "7.1",
+      "description": "A controlling, manipulative father locks his three adult offspring in a state of perpetual childhood by keeping them prisoner within the sprawling family compound.",
       "genres": [
-        "Comedy",
         "Drama",
+        "Thriller"
+      ],
+      "director": [
+        "Yorgos Lanthimos"
+      ]
+    },
+    {
+      "id": "tt0073198",
+      "type": "movie",
+      "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0073198.webp",
+      "releaseInfo": "1976",
+      "imdbRating": "7.5",
+      "description": "A lonely widowed housewife does her daily chores, takes care of her apartment where she lives with her teenage son, and turns the occasional trick to make ends meet, but something happens that changes her safe routine.",
+      "genres": [
+        "Drama"
+      ],
+      "director": [
+        "Chantal Akerman"
+      ]
+    },
+    {
+      "id": "tt0058430",
+      "type": "movie",
+      "name": "Onibaba",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0058430.webp",
+      "releaseInfo": "1965",
+      "imdbRating": "7.8",
+      "description": "Two women kill samurai and sell their belongings for a living. While one of them is having an affair with their neighbor, the other woman meets a mysterious samurai wearing a bizarre mask.",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "director": [
+        "Kaneto Shindo"
+      ]
+    },
+    {
+      "id": "tt0254686",
+      "type": "movie",
+      "name": "The Piano Teacher",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt0254686.webp",
+      "releaseInfo": "2001",
+      "imdbRating": "7.5",
+      "description": "A young man romantically pursues his masochistic piano teacher.",
+      "genres": [
+        "Drama",
+        "Music",
         "Romance"
       ],
       "director": [
-        "Pedro Almod\u00f3var"
+        "Michael Haneke"
+      ]
+    },
+    {
+      "id": "tt8359848",
+      "type": "movie",
+      "name": "Climax",
+      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt8359848.webp",
+      "releaseInfo": "2019",
+      "imdbRating": "6.9",
+      "description": "French dancers gather in a remote, empty school building to rehearse on a wintry night. The all-night celebration morphs into a hallucinatory nightmare when they learn their sangria is laced with LSD.",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Music"
+      ],
+      "director": [
+        "Gaspar No\u00e9"
       ]
     },
     {
@@ -715,23 +734,6 @@
       ],
       "director": [
         "Otto Preminger"
-      ]
-    },
-    {
-      "id": "tt3721936",
-      "type": "movie",
-      "name": "American Honey",
-      "poster": "https://mattloud.github.io/stremio-watchlist/posters/tt3721936.webp",
-      "releaseInfo": "2016",
-      "imdbRating": "7.0",
-      "description": "A teenage girl with nothing to lose joins a traveling magazine sales crew, and gets caught up in a whirlwind of hard partying, law bending and young love as she criss-crosses the Midwest with a band of misfits.",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Romance"
-      ],
-      "director": [
-        "Andrea Arnold"
       ]
     },
     {
